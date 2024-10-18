@@ -7,7 +7,7 @@
 > - 在你的网站根目录创建如下的文件路径
 > 
 > netdisk<br>
-> ├── files<br>
+> ├── files/<br>
 > ├── index.php<br>
 > └── style.css<br>
 > 
