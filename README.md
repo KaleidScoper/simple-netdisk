@@ -4,11 +4,5 @@
 支持上传、下载、删除，报错详细，仅供救急使用。
 
 ## 使用方法
-> - 在你的网站根目录创建如下的文件路径
-> 
-> netdisk<br>
-> ├── files/<br>
-> ├── index.php<br>
-> └── style.css<br>
-> 
-> - 访问https://你的域名/netdisk/index.php
+> - 在你的网站根目录clone本项目；
+> - 访问https://你的域名/simple-netdisk/index.php
